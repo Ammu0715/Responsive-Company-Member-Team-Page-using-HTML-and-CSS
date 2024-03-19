@@ -1,0 +1,230 @@
+body{
+    background-color: rgb(222, 168, 245);
+}
+.SQUARE{
+    background-color: rgb(229, 225, 252);
+    height: 3000px;
+    width: 1200PX;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 125PX;
+    margin-right: 400PX;
+    border-radius: 20px;
+    border-style: dashed;   
+}
+.block1{
+    text-align: center;
+    font-size: large;
+    font-weight: 100;
+    font-style: oblique;
+    color: rgb(8, 1, 48);   
+} 
+.block{
+    font-size: xX-large;
+    padding-top: 10px; 
+    text-decoration: underline;
+}
+.block2{
+    font-size: larger;
+    font-weight: bolder;
+}
+#nandu{
+    font-size: large;
+    font-size: 20px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    font-weight: bold;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-top: 20px;
+    font-style: normal;
+}
+#nandu1{
+    background-color: rgb(153, 223, 160);
+    font-weight: bold;
+    font-size: large;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.block4{
+    height: 175px;
+    width: 175px;
+    float: left;
+    padding-left: 400px;
+    padding-right: 20PX;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: smaller;
+}
+#man{
+    background-color: rgb(225, 225, 224);
+    font-weight: bold;
+    font-size: medium;
+}
+.block5{
+    height: 175px;
+    width: 175px;
+    float: left;
+    padding-left: 10px;
+    padding-right: 400PX;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: smaller;
+}
+.block6{
+    height: 175px;
+    width: 175px;
+    float: left;
+    padding-left:290px;
+    padding-right: 20PX;
+    padding-top: 50px;
+    font-size: smaller;
+}
+.block7{
+    height: 175px;
+    width: 175px;
+    float: left;
+    padding-left:10px;
+    padding-right: 20PX;
+    padding-top: 50px;
+    font-size: smaller;
+}
+.block8{
+    height: 175px;
+    width: 175px;
+    float: left;
+    padding-left:10px;
+    padding-top: 50px;
+    font-size: smaller;
+}
+.dev{
+    padding-top: 650px;
+    padding-right: 30px;   
+    /* background-color: black; */
+}
+#soft{
+    border-radius: 10px;
+    background-color: rgb(153, 223, 160);
+    font-weight: bold;
+    font-size: Large;
+   padding-left: 400px;
+   padding-right: 400px;
+}
+.dev1{
+    height: 175px;
+    width: 175px;
+    float: left;
+    padding-left: 95px;
+    padding-right: 20PX;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: smaller;
+}
+#sd{
+    background-color: rgb(225, 225, 224);
+    font-weight: bold;
+    font-size: medium;
+}
+.dev2{
+    height: 175px;
+    width: 175px;
+    float: left;
+    padding-left:60px;
+    padding-right: 20PX;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: smaller;
+}
+.dev3{
+    height: 175px;
+    width: 175px;
+    float: left;
+    padding-left: 60px;
+    padding-right: 20PX;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: smaller;
+}
+.dev4{
+    height: 175px;
+    width: 175px;
+    float: right;
+    padding-left: 30px;
+    padding-right: 110PX;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: smaller;
+}
+.dev5{
+    height: 175px;
+    width: 175px;
+    float: left;
+    padding-left: 250px;
+    padding-right: 50PX;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: smaller;
+}
+.dev6{
+    height: 175px;
+    width: 175px;
+    float: left;
+    padding-left: 30px;
+    padding-right: 50PX;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: smaller;
+}
+.dev7{
+    height: 175px;
+    width: 175px;
+    float: left;
+    padding-left: 30px;
+    padding-right: 50PX;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: smaller;
+}
+#Test{
+    border-radius: 30px;
+    background-color: rgb(153, 223, 160);
+    font-weight: bold;
+    font-size: Large;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.test1{
+    height: 175px;
+    width: 175px;
+    float: left;
+    padding-left: 85px;
+    padding-right: 20PX;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: smaller;
+}
+#exe{
+    border-radius: 30px;
+    background-color: rgb(153, 223, 160);
+    font-weight: bold;
+    font-size: Large;
+    margin-top: 100px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.sales1{
+    height: 175px;
+    width: 175px;
+    float: left;
+    padding-left: 150px;
+    padding-right: 20PX;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: smaller;
+}
+.merge:hover{
+    background-color: rgb(153, 223, 160);
+    color: blue;
+}
